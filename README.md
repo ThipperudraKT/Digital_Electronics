@@ -1,2 +1,2 @@
 # Digital_Electronics
-Digital Electronics Minor Project
+Digital Electronics Minor Project 
